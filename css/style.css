@@ -69,6 +69,7 @@ ul{
         background-color: #F5B4B3;
         height: 6rem;
         margin-bottom: 10px;
+        transition: all 0.25s ease-in-out;
     }
 
     .side_menu li a{
@@ -77,11 +78,18 @@ ul{
         text-decoration: none;
         display: block;
         padding: 2rem;
+        transition: all 0.25s ease-in-out;
     }
-
+    .side_menu li:hover{
+        opacity: 0.6;
+    }
+    .banner a:hover {
+        opacity: 0.6;
+    }
     .banner img{
         width: 100%;
     }
     .banner{
         margin-top: 20px;
     }
+    
