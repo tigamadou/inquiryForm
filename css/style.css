@@ -83,13 +83,14 @@ ul{
     .side_menu li:hover{
         opacity: 0.6;
     }
-    .banner a:hover {
-        opacity: 0.6;
-    }
-    .banner img{
-        width: 100%;
-    }
-    .banner{
-        margin-top: 20px;
-    }
     
+
+/* Content */
+    .content{
+        width: 660px;
+        height: 600px;
+        margin-left:20px;
+        float: left;
+        font-size: 1.5rem;
+        background-color: red;
+    }
