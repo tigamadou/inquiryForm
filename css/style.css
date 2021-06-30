@@ -21,25 +21,25 @@ body {
 nav {
     float: right;
 }
-nav ul{
+ul.top_menu{
     padding: 0px;
     margin: 0px;  
     
 }
 
-nav ul li{
+ul.top_menu li{
     float: right;
     padding: 15px;
     margin: 0 1rem 0 1rem;
     list-style: none;
 }
 
-nav ul li a{
+ul.top_menu li a{
     color: #fff;
     text-decoration: none;
 }
 
-nav ul li a:hover {
+ul.top_menu li a:hover {
     text-decoration: underline;
   }
 
