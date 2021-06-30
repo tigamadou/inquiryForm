@@ -48,3 +48,8 @@ ul.top_menu li a:hover {
     display: block;
     clear: both;
 }
+
+.image_area{
+    width: 100%;
+    max-width: 100%;
+  }
