@@ -1,13 +1,47 @@
 html {
     font-size: 62.5%;
-  }
-  body {
+}
+body {
     width: 980px;
     margin: 0 auto;
-  }
+}
 
-  .header {
+.header {
     background-color: #F5B4B3;
     height: 50px;
     font-size: 1.5rem;
+}
+
+.logo_image {
+    width: 110px;
+    margin: 0;
+    float: left;
+}
+
+nav ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+nav ul li{
+    float: right;
+    line-height: 50px;
+    margin: 0 1rem 0 1rem;
+    
+}
+
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
   }
+
+.clearfix{
+    content: "";
+    display: block;
+    clear: both;
+}
