@@ -72,6 +72,10 @@ ul{
         transition: all 0.25s ease-in-out;
     }
 
+    .side_menu li.active{
+        background-color: #FCECEC;
+    }
+
     .side_menu li a{
         font-size:2rem;
         color: #fff;
@@ -80,8 +84,14 @@ ul{
         padding: 2rem;
         transition: all 0.25s ease-in-out;
     }
+    .side_menu li.active a{
+        color: #4D4D4D;
+    }
     .side_menu li:hover{
-        opacity: 0.6;
+        background-color: #FCECEC;
+    }
+    .side_menu li a:hover{
+        color: #4D4D4D;
     }
     
 
