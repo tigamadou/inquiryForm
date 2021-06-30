@@ -5,43 +5,44 @@ body {
     width: 980px;
     margin: 0 auto;
 }
+/* Header */
+    .header {
+        background-color: #F5B4B3;
+        height: 50px;
+        font-size: 1.5rem;
+    }
+    .header nav{
+        float: right;
+    }
 
-.header {
-    background-color: #F5B4B3;
-    height: 50px;
-    font-size: 1.5rem;
-}
+    .logo_image {
+        width: 110px;
+        margin: 0;
+        float: left;
+    }
 
-.logo_image {
-    width: 110px;
-    margin: 0;
-    float: left;
-}
+    /* */
+    ul.top_menu{
+        padding: 0px;
+        margin: 0px;  
+        float: right;
+    }
 
-nav {
-    float: right;
-}
-ul.top_menu{
-    padding: 0px;
-    margin: 0px;  
-    
-}
+    ul.top_menu li{
+        float: right;
+        padding: 15px;
+        margin: 0 1rem 0 1rem;
+        list-style: none;
+    }
 
-ul.top_menu li{
-    float: right;
-    padding: 15px;
-    margin: 0 1rem 0 1rem;
-    list-style: none;
-}
+    ul.top_menu li a{
+        color: #fff;
+        text-decoration: none;
+    }
 
-ul.top_menu li a{
-    color: #fff;
-    text-decoration: none;
-}
-
-ul.top_menu li a:hover {
-    text-decoration: underline;
-  }
+    ul.top_menu li a:hover {
+        text-decoration: underline;
+    }
 
 .clearfix{
     content: "";
@@ -49,7 +50,18 @@ ul.top_menu li a:hover {
     clear: both;
 }
 
+/* Image area */
 .image_area{
     width: 100%;
     max-width: 100%;
+  }
+  
+/* Side Menu */
+.side_menu{
+    
+}
+.side_menu li{
+    background-color: #F5B4B3;
+    height: 6rem;
+    margin-bottom: 10px;
   }
