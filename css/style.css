@@ -5,6 +5,11 @@ body {
     width: 980px;
     margin: 0 auto;
 }
+ul{
+    padding: 0px;
+    margin: 0px; 
+    list-style: none;
+}
 /* Header */
     .header {
         background-color: #F5B4B3;
@@ -23,8 +28,7 @@ body {
 
     /* */
     ul.top_menu{
-        padding: 0px;
-        margin: 0px;  
+      
         float: right;
     }
 
@@ -58,10 +62,19 @@ body {
   
 /* Side Menu */
 .side_menu{
-    
+    width: 300px;
+    float: left;
 }
 .side_menu li{
     background-color: #F5B4B3;
     height: 6rem;
     margin-bottom: 10px;
+}
+
+.side_menu li a{
+    font-size:2rem;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 2rem;
   }
