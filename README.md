@@ -115,5 +115,5 @@ Project Link: [GitHub](https://github.com/tigamadou/inquiryForm)
 [license-shield]: https://img.shields.io/github/license/tigamadou/inquiryForm.svg?style=flat-square
 [license-url]: https://github.com/tigamadou/inquiryForm/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/amadou-ibrahim/
 [product-screenshot]: images/screenshot.png
