@@ -1,18 +1,11 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# inquiryForm [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 
-# inquiryForm
 
-    A simple inquiry form build for DIVE INTO CODE.
 
 [Explore the docs](https://github.com/tigamadou/inquiryForm) | [View Demo](https://inquiryform01.herokuapp.com/) | [Report Bug](https://github.com/tigamadou/inquiryForm/issues) | [Request Feature](https://github.com/tigamadou/inquiryForm/issues)
 
