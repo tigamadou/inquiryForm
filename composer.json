@@ -1,0 +1,11 @@
+{
+    "name": "tigamadou/inquiryform",
+    "description": "Simple html form",
+    "authors": [
+        {
+            "name": "Amadou",
+            "email": "amadou140589@gmail.com"
+        }
+    ],
+    "require": {}
+}
